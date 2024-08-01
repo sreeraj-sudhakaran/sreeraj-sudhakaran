@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sreeraj! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=sreeraj-sudhakaran&color=brightgreen)
 
 I am an Embedded Software Engineer with over 5 years of expertise in developing firmware for memory-constrained devices and architecting robust embedded systems. I am passionate about bridging the gap between hardware and software to deliver innovative solutions.
 
@@ -39,9 +39,9 @@ I am an Embedded Software Engineer with over 5 years of expertise in developing 
 
 ## 🔗 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeraj-sudhakaran&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeraj-sudhakaran&layout=compact&theme=radical)
 <!--
 ## 🌟 Projects
 
