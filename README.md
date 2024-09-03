@@ -1,16 +1,4 @@
 
-<!-- Banner GIF with rounded corners, blended edges, and text overlay -->
-<div style="position:relative; width:100%; height:100px; overflow:hidden; border-radius:15px;">
-  <img src="extras/active_circuit.gif" alt="Banner" style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; border-radius:15px;">
-  <div style="position:absolute; top:0; left:0; width:100%; height:100%; background:rgba(0, 0, 0, 0.5); border-radius:15px; display:flex; justify-content:center; align-items:center;">
-    <div style="color:#F0F8FF; /* Alice Blue */ text-align:center; font-size:24px; font-weight:bold; text-shadow:2px 2px 6px #000000; /* Black */ border:2px solid #000000; /* Black */ padding:10px; border-radius:5px;">
-      Innovative Embedded Software Engineer & AI Enthusiast
-    </div>
-  </div>
-</div>
-
-
-
 # 🙇About Me
 
 Hello! I'm an Embedded Software Engineer with over 5 years of experience in developing firmware with C/C++ for memory-constrained devices and designing robust embedded systems. My expertise extends to Python microservices and edge AI, where I blend hardware and software to create innovative, smart solutions. I'm passionate about transforming ideas into reality.
