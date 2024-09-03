@@ -1,69 +1,50 @@
-## Hi there 👋
 
-# Hi there, I'm Sreeraj! 👋
+<!-- Banner GIF with rounded corners, blended edges, and text overlay -->
+<div style="position:relative; width:100%; height:100px; overflow:hidden; border-radius:15px;">
+  <img src="extras/active_circuit.gif" alt="Banner" style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; border-radius:15px;">
+  <div style="position:absolute; top:0; left:0; width:100%; height:100%; background:rgba(0, 0, 0, 0.5); border-radius:15px; display:flex; justify-content:center; align-items:center;">
+    <div style="color:#F0F8FF; /* Alice Blue */ text-align:center; font-size:24px; font-weight:bold; text-shadow:2px 2px 6px #000000; /* Black */ border:2px solid #000000; /* Black */ padding:10px; border-radius:5px;">
+      Innovative Embedded Software Engineer & AI Enthusiast
+    </div>
+  </div>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sreeraj-sudhakaran&color=brightgreen)
 
-I am an Embedded Software Engineer with over 5 years of expertise in developing firmware for memory-constrained devices and architecting robust embedded systems. I am passionate about bridging the gap between hardware and software to deliver innovative solutions.
 
-## 🛠️ Technical Skills
+# 🙇About Me
 
-- **Languages:** C/C++, Python, Node.js, HTML
-- **Embedded Systems:** Quectel MC-60, Quectel M65, STM32F091, PIC18F26K22, ATmega128, ATmega328, ESP32, ESP8266
-- **Protocols:** SPI, I2C, UART, RS232/485
-- **Software Tools:** Keil uVision, MPLAB, AVR Studio, Proteus, MATLAB, Simulink, OrCAD, EagleCAD, System Workbench for STM32, STMCubeMx, VS Code, DataGrip
-- **Messaging Protocols:** MQTT, Apache Kafka, RabbitMQ
-- **Database Tools:** DynamoDB, MongoDB, PostgreSQL, MySQL
-- **Version Control:** GitLab, GitHub
-- **Management Tools:** ClickUp, Jira
+Hello! I'm an Embedded Software Engineer with over 5 years of experience in developing firmware with C/C++ for memory-constrained devices and designing robust embedded systems. My expertise extends to Python microservices and edge AI, where I blend hardware and software to create innovative, smart solutions. I'm passionate about transforming ideas into reality.
 
-## 🧠 Machine Learning & Python Libraries
+Let’s connect and explore how we can collaborate to build something extraordinary
 
-- **Machine Learning Models:** Linear Regression, Logistic Regression, Naïve Bayes, Decision Tree, Random Forest, XGBoost
-- **Python Libraries:** Pandas, NumPy, Scikit-learn, Natural Language Processing (NLP), NLTK, matplotlib, Pytorch, Keras, BeautifulSoup
 
-## 🏆 Achievements
+# 💻Tech Stack
 
-- Received a Customer Appreciation Award for significant contributions to ARAI and CDAC certification.
-- Presented a conference paper on "Extended Applications of Swarm Robotics" (12th ISTE Convention 2015).
+| **Category**            | **Skills**                                                                                         |
+|-------------------------|----------------------------------------------------------------------------------------------------|
+| **Programming Languages** | C, C++, Python, HTML                                                                              |
+| **Embedded Systems**    | STM32, Quectel, PIC, ATmega, ESP32, GSM/GPS, WiFi, Flash, SRAM, RTC, RF modules                    |
+| **Communication Protocols** | SPI, I2C, UART, RS232/485                                                                      |
+| **Software Tools**      | VS Code, Keil uVision, MPLAB, AVR Studio, Proteus, MATLAB, Simulink, OrCAD, EagleCAD, System Workbench for STM32, STM32CubeMX, Eclipse, DataGrip |
+| **Messaging Protocols** | MQTT, Apache Kafka, RabbitMQ                                                                       |
+| **Database Tools**      | DynamoDB, MongoDB, PostgreSQL                                                                      |
+| **Version Control**     | GitHub, GitLab                                                                                     |
+| **Project Management**  | Jira, ClickUp  
 
-## 💡 Interests
+## 🌐Socials
 
-- **AI/ML Integration:** Passionate about integrating AI/ML with embedded systems to create innovative solutions.
-- **Electronics & AI/ML:** Keen on projects where electronics meet AI/ML, leveraging intelligent algorithms for enhanced functionalities.
+<p align="left"> <a href="mailto:sreeraj001sudhakaran@gmail.com" target="blank"><img align="center" src=icons/gmail.svg alt="gmail" height="30" width="40" /></a> <a href="https://github.com/sreeraj-sudhakaran" target="blank"><img align="center" src=icons/github-dark.svg alt="github" height="30" width="40" /></a> <a href="https://linkedin.com/in/sreeraj-sudhakaran" target="blank"><img align="center" src=icons/linkedin.svg alt="linkedin" height="30" width="40" /></a> </p>
 
-## 📫 How to Reach Me
+<!-- # 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=sreeraj-sudhakaran&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sreeraj-sudhakaran&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeraj-sudhakaran&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sreeraj-sudhakaran)
-- Email: sreerajs0094@gmail.com
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=sreeraj-sudhakaran&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🔗 GitHub Stats
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeraj-sudhakaran&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeraj-sudhakaran&layout=compact&theme=radical)
-<!--
-## 🌟 Projects
-
-Here are some of my notable projects:
-
-- [Project 1](https://github.com/yourusername/project1) - Brief description of project 1.
-- [Project 2](https://github.com/yourusername/project2) - Brief description of project 2.
-- [Project 3](https://github.com/yourusername/project3) - Brief description of project 3.
--->
-Let's connect and explore how we can achieve groundbreaking technological advancements together!
-
-<!--
-**sreeraj-sudhakaran/sreeraj-sudhakaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=sreeraj-sudhakaran&icon=0&color=0)](https://visitcount.itsvg.in)
