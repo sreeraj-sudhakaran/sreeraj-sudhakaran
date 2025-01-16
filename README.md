@@ -12,13 +12,18 @@ Let's connect and explore how we can collaborate to build something extraordinar
 
 <table>
   <tr>
-    <td><img src="icons\badges\zephyr-technical-contributor.png" alt="Zephyr Technical Contributor Badge" width="150"/></td>
+    <td>
+      <a href="https://www.credly.com/badges/99ea4a28-566c-4a59-b7e1-2af8e5674c2d/public_url" target="_blank">
+        <img src="icons/badges/zephyr-technical-contributor.png" alt="Zephyr Technical Contributor Badge" width="150"/>
+      </a>
+    </td>
     <td>
       <strong>Zephyr Technical Contributor Badge</strong><br>
       Recognized for my contributions to the Zephyr Project, demonstrating my commitment to advancing open-source embedded systems.
     </td>
   </tr>
 </table>
+
 
 
 # 💻Tech Stack
