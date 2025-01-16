@@ -1,9 +1,24 @@
 
 # 🙇About Me
 
-Hello! I'm an Embedded Software Engineer with over 5 years of experience in developing firmware with C/C++ for memory-constrained devices and designing robust embedded systems. My expertise extends to Python microservices and edge AI, where I blend hardware and software to create innovative, smart solutions. I'm passionate about transforming ideas into reality.
+Hello! I'm an Embedded Software Engineer with over 5 years of experience in developing firmware using C/C++ for memory-constrained devices and designing robust embedded systems. My expertise extends to Python microservices and edge AI, where I blend hardware and software to create innovative, smart solutions. I thrive on transforming ideas into reality and love tackling complex challenges in the embedded world. 
 
-Let’s connect and explore how we can collaborate to build something extraordinary
+In my free time, I enjoy exploring new technologies and contributing to open-source projects that push the boundaries of what's possible in embedded systems. 
+
+Let's connect and explore how we can collaborate to build something extraordinary!
+
+
+## 🏅 Achievements
+
+<table>
+  <tr>
+    <td><img src="icons\badges\zephyr-technical-contributor.png" alt="Zephyr Technical Contributor Badge" width="150"/></td>
+    <td>
+      <strong>Zephyr Technical Contributor Badge</strong><br>
+      Recognized for my contributions to the Zephyr Project, demonstrating my commitment to advancing open-source embedded systems.
+    </td>
+  </tr>
+</table>
 
 
 # 💻Tech Stack
@@ -11,6 +26,7 @@ Let’s connect and explore how we can collaborate to build something extraordin
 | **Category**            | **Skills**                                                                                         |
 |-------------------------|----------------------------------------------------------------------------------------------------|
 | **Programming Languages** | C, C++, Python, HTML                                                                              |
+| **Cloud Platforms**     | **AWS** (including AWS IoT Core, S3, Dynamo, EC2), **Azure** (including Function App, Storage Accounts, Key Vault)                   |
 | **Embedded Systems**    | STM32, Quectel, PIC, ATmega, ESP32, GSM/GPS, WiFi, Flash, SRAM, RTC, RF modules                    |
 | **Communication Protocols** | SPI, I2C, UART, RS232/485                                                                      |
 | **Software Tools**      | VS Code, Keil uVision, MPLAB, AVR Studio, Proteus, MATLAB, Simulink, OrCAD, EagleCAD, System Workbench for STM32, STM32CubeMX, Eclipse, DataGrip |
@@ -21,7 +37,7 @@ Let’s connect and explore how we can collaborate to build something extraordin
 
 ## 🌐Socials
 
-<p align="left"> <a href="mailto:sreeraj001sudhakaran@gmail.com" target="blank"><img align="center" src=icons/gmail.svg alt="gmail" height="30" width="40" /></a> <a href="https://github.com/sreeraj-sudhakaran" target="blank"><img align="center" src=icons/github-dark.svg alt="github" height="30" width="40" /></a> <a href="https://linkedin.com/in/sreeraj-sudhakaran" target="blank"><img align="center" src=icons/linkedin.svg alt="linkedin" height="30" width="40" /></a> </p>
+<p align="left"> <a href="mailto:sreeraj001sudhakaran@gmail.com" target="blank"><img align="center" src=icons/logo/gmail.svg alt="gmail" height="30" width="40" /></a> <a href="https://github.com/sreeraj-sudhakaran" target="blank"><img align="center" src=icons/logo/github-dark.svg alt="github" height="30" width="40" /></a> <a href="https://linkedin.com/in/sreeraj-sudhakaran" target="blank"><img align="center" src=icons/logo/linkedin.svg alt="linkedin" height="30" width="40" /></a> </p>
 
 <!-- # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=sreeraj-sudhakaran&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -29,7 +45,7 @@ Let’s connect and explore how we can collaborate to build something extraordin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeraj-sudhakaran&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sreeraj-sudhakaran&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sreeraj-sudhakaran&title=MultiLanguage,Experience,Repositories,Stars,Commits,Followers,PullRequest&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 <!--![](https://github-trophies.vercel.app/?username=sreeraj-sudhakaran&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### ✍️Random Dev Quote
