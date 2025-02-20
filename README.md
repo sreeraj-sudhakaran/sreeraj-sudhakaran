@@ -41,13 +41,9 @@ Let's connect and explore how we can collaborate to build something extraordinar
 | **Project Management**  | Jira, ClickUp  
 
 
-## 🩺My GitHub Vitals
+## 🌡️My GitHub Vitals
 
 [![My GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=sreeraj-sudhakaran&theme=github-dark&hide_border=true)](https://github.com/sreeraj-sudhakaran)
-
-## 🌐Socials
-
-<p align="left"> <a href="mailto:sreeraj001sudhakaran@gmail.com" target="blank"><img align="center" src=icons/logo/gmail.svg alt="gmail" height="30" width="40" /></a> <a href="https://github.com/sreeraj-sudhakaran" target="blank"><img align="center" src=icons/logo/github-dark.svg alt="github" height="30" width="40" /></a> <a href="https://linkedin.com/in/sreeraj-sudhakaran" target="blank"><img align="center" src=icons/logo/linkedin.svg alt="linkedin" height="30" width="40" /></a> </p>
 
 <!-- # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=sreeraj-sudhakaran&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -57,6 +53,11 @@ Let's connect and explore how we can collaborate to build something extraordinar
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sreeraj-sudhakaran&title=MultiLanguage,Experience,Repositories,Stars,Commits,Followers,PullRequest&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 <!--![](https://github-trophies.vercel.app/?username=sreeraj-sudhakaran&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4) -->
+
+
+## 🌐Socials
+<p align="left"> <a href="mailto:sreeraj001sudhakaran@gmail.com" target="blank"><img align="center" src=icons/logo/gmail.svg alt="gmail" height="30" width="40" /></a> <a href="https://github.com/sreeraj-sudhakaran" target="blank"><img align="center" src=icons/logo/github-dark.svg alt="github" height="30" width="40" /></a> <a href="https://linkedin.com/in/sreeraj-sudhakaran" target="blank"><img align="center" src=icons/logo/linkedin.svg alt="linkedin" height="30" width="40" /></a> </p>
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
