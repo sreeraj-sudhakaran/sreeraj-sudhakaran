@@ -40,6 +40,11 @@ Let's connect and explore how we can collaborate to build something extraordinar
 | **Version Control**     | GitHub, GitLab                                                                                     |
 | **Project Management**  | Jira, ClickUp  
 
+
+## 🩺My GitHub Vitals
+
+[![My GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=sreeraj-sudhakaran&theme=github-dark&hide_border=true)](https://github.com/sreeraj-sudhakaran)
+
 ## 🌐Socials
 
 <p align="left"> <a href="mailto:sreeraj001sudhakaran@gmail.com" target="blank"><img align="center" src=icons/logo/gmail.svg alt="gmail" height="30" width="40" /></a> <a href="https://github.com/sreeraj-sudhakaran" target="blank"><img align="center" src=icons/logo/github-dark.svg alt="github" height="30" width="40" /></a> <a href="https://linkedin.com/in/sreeraj-sudhakaran" target="blank"><img align="center" src=icons/logo/linkedin.svg alt="linkedin" height="30" width="40" /></a> </p>
