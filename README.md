@@ -33,7 +33,7 @@ Let's connect and explore how we can collaborate to build something extraordinar
 | **Programming Languages** | C, C++, Python, HTML                                                                              |
 | **Cloud Platforms**     | **AWS** (including AWS IoT Core, S3, Dynamo, EC2), **Azure** (including Function App, Storage Accounts, Key Vault)                   |
 | **Embedded Systems**    | STM32, Quectel, PIC, ATmega, ESP32, GSM/GRPS, GPS, WiFi, Flash, SRAM, RTC, RF modules                    |
-| **Communication Protocols** | SPI, I2C, UART, RS232/485                                                                      |
+| **Communication Protocols** | SPI, I2C, UART, RS232, RS485, MQTT                                                                      |
 | **Software Tools**      | VS Code, Keil uVision, MPLAB, AVR Studio, Proteus, MATLAB, Simulink, OrCAD, EagleCAD, System Workbench for STM32, STM32CubeMX, Eclipse, DataGrip |
 | **Messaging Protocols** | MQTT, Apache Kafka, RabbitMQ                                                                       |
 | **Database Tools**      | DynamoDB, MongoDB, PostgreSQL                                                                      |
