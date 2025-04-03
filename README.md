@@ -8,7 +8,7 @@ In my free time, I enjoy exploring new technologies and contributing to open-sou
 Let's connect and explore how we can collaborate to build something extraordinary!
 
 
-Explore My Portfolio - <a href="https://sreeraj-sudhakaran.github.io/" target="blank"><img align="center" src=icons/logo/logo.png alt="portfolio_logo" height="30" width="40" />sreeraj-sudhakaran.github.io</a>
+Explore My Portfolio - <a href="https://sreeraj-sudhakaran.github.io/" target="blank"><img align="center" src=icons/logo/logo.png alt="portfolio_logo" height="20" width="20" /> sreeraj-sudhakaran.github.io</a>
 
 
 ## 🏅 Achievements
