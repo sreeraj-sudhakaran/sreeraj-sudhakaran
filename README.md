@@ -1,7 +1,7 @@
 
 # 🙇About Me
 
-Hello! I'm an Embedded Software Engineer with over 5 years of experience in developing firmware using C/C++ for memory-constrained devices and designing robust embedded systems. My expertise extends to Python microservices and edge AI, where I blend hardware and software to create innovative, smart solutions. I thrive on transforming ideas into reality and love tackling complex challenges in the embedded world. 
+Hello! I'm an Embedded Software Engineer with over 6 years of experience in developing firmware using C/C++ for memory-constrained devices and designing robust embedded systems. My expertise extends to Python microservices and edge AI, where I blend hardware and software to create innovative, smart solutions. I thrive on transforming ideas into reality and love tackling complex challenges in the embedded world. 
 
 In my free time, I enjoy exploring new technologies and contributing to open-source projects that push the boundaries of what's possible in embedded systems. 
 
